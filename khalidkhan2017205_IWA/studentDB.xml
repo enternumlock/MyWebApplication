@@ -28,6 +28,15 @@
       <computer>90</computer>
       <history>90</history>
     </child>
+    <child>
+      <rollno>114</rollno>
+      <firstname>atif</firstname>
+      <lastname>ali</lastname>
+      <programming>50</programming>
+      <maths>15</maths>
+      <computer>17</computer>
+      <history>90</history>
+    </child>
   </class>
   <class grade="Semister 2">
     <child>
@@ -47,6 +56,15 @@
       <maths>45</maths>
       <computer>60</computer>
       <history>90</history>
+    </child>
+    <child>
+      <rollno>204</rollno>
+      <firstname>Raza</firstname>
+      <lastname>shaikh</lastname>
+      <programming>50</programming>
+      <maths>90</maths>
+      <computer>60</computer>
+      <history>50</history>
     </child>
   </class>
   <class grade="Semister 3">
