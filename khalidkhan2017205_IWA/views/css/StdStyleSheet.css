@@ -1,0 +1,40 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:lightgrey;
+	margin: 5px;
+	text-align: left;
+	color: #030801fd;
+}
+h2 {
+	font-size: 140%;
+	color: #0D3427;
+	margin-top: 10px;
+	text-align: center;
+}
+
+table {
+
+	border-color: #000000;
+	border-width: bold;
+	border-collapse: collapse;
+	width: 50%;
+}
+th {
+	padding:20px;
+	font-size: 75% bold;
+	color: #0D3427;
+}
+td {
+	font-size: 100%;
+	padding: 5px;
+	text-align: center;
+}
+
+.selected{
+    background-color: black;
+    color: white;
+}
