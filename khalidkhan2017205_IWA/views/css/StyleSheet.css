@@ -3,17 +3,27 @@ html {
     min-height: 100%;
 }
 body {
+    background-image: url("/img/image1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	font-family: Arial, Helvetica, sans-serif;
-	background-color:lightyellow;
 	margin: 5px;
 	text-align: left;
 	color: #030801fd;
 }
+
 h2 {
 	font-size: 140%;
 	color: #0D3427;
 	margin-top: 10px;
 	text-align: center;
+}
+
+p{
+    color: black;
+    font-weight: bold;
 }
 
 table {
@@ -30,6 +40,7 @@ th {
 }
 td {
 	font-size: 100%;
+    font-weight: bold;
 	padding: 5px;
 	text-align: center;
 }
