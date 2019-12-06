@@ -38,3 +38,13 @@ function calculateMarks(idMarkTable) {
 	// return the total marks as a decimal number with 2 decimal places
 	return Math.round(fMarkTotal*100.0)/100.0;
 };
+
+function getParentTag(oNode, sParentType) {
+	var oParent = oNode.parentNode;
+	while (oParent) {
+		if (oParent.nodeName == sParentType)
+			return oParent;
+		oParent = oParent.parentNode;
+	};
+	return oParent;
+};
