@@ -20,25 +20,16 @@
       <history>84</history>
     </child>
     <child>
-      <rollno>110</rollno>
-      <firstname>Jay</firstname>
-      <lastname>Maliya</lastname>
+      <rollno>113</rollno>
+      <firstname>adwin</firstname>
+      <lastname>roy</lastname>
       <programming>90</programming>
-      <maths>81</maths>
-      <computer>99</computer>
-      <history>50</history>
+      <maths>90</maths>
+      <computer>90</computer>
+      <history>90</history>
     </child>
   </class>
   <class grade="Semister 2">
-    <child>
-      <rollno>201</rollno>
-      <firstname>Furqan</firstname>
-      <lastname>shaikh</lastname>
-      <programming>63</programming>
-      <maths>95</maths>
-      <computer>49</computer>
-      <history>85</history>
-    </child>
     <child>
       <rollno>202</rollno>
       <firstname>kashif</firstname>
@@ -96,15 +87,6 @@
       <maths>91</maths>
       <computer>87</computer>
       <history>55</history>
-    </child>
-    <child>
-      <rollno>402</rollno>
-      <firstname>mark</firstname>
-      <lastname>john</lastname>
-      <programming>90</programming>
-      <maths>70</maths>
-      <computer>60</computer>
-      <history>25</history>
     </child>
     <child>
       <rollno>403</rollno>
