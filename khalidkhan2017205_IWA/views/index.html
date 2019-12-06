@@ -10,6 +10,15 @@
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/StyleSheet.css" rel="stylesheet">
+    <script src="jquery/student.js"></script>
+    <script>
+		window.addEventListener("load", function() {
+		document.forms[1].txtTotalMark.value = calculateMarks('marktable');            
+		document.querySelector("#calcMark").addEventListener("click", function() {
+		document.forms[1].txtTotalMark.value = calculateMarks('marktable');
+			});
+		});
+	</script>
 </head>
 
 <body>
@@ -92,7 +101,6 @@
 	<!-- Bootstrap core JavaScript -->
 	<script src="jquery/jquery.min.js"></script>
 	<script src="jquery/table.js"></script>
-    <script src="jquery/student.js"></script>
 	<script src="js/bootstrap.min.js"></script>
     <script>
 		window.addEventListener("load", function() {
